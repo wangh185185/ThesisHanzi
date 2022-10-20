@@ -1,0 +1,36 @@
+main {
+    color:rgb(0, 0, 0) ;
+	align-content: center;
+	text-align: center;
+}
+
+#title {
+	text-align: center;
+}
+
+body {
+	text-align: center;
+	background-color: rgb(255, 255, 255);
+	font-family: 'Tangerine', serif;
+	margin: auto;
+}
+
+#titletag {
+	font-size: 100px;
+}
+
+.reference {
+	padding: 3%;
+	font-size: 15px;
+	color: rgb(255, 255, 255);
+	background-color: rgb(133, 128, 120);
+	border-style: solid;
+}
+
+.canvas {
+	align-content: center;
+	border: medium dashed green;
+}
+
+article {
+}
